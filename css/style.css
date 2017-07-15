@@ -1,0 +1,15 @@
+li:nth-child(4) {
+    visibility: hidden;
+}
+
+li:nth-child(2) {
+    display: none;
+}
+
+.user-name {
+    background-color: cornsilk;
+}
+
+.user-street {
+    background-color: skyblue;
+}
